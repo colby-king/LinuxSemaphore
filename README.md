@@ -69,7 +69,7 @@ Using the code above you can initialize a semaphore by calling the create functi
 * **Key**: A secret key to protect access 
 
 ```C
-char key[32] = "secret ley";
+char key[32] = "secret key";
 long lockId = create(1, "BinarySemaphore", key);
 ```
 
