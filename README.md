@@ -1,4 +1,4 @@
-# Linux Sempahore 
+# Linux Sempahore Implementation
 This is an implementation of a semaphore (synchronization mechanism) for the Linux kernel version 2.6 on i386. The semaphore can be created, used and closed by making syscalls to the kernel.
 
 ## Implementing Syscalls in the Linux Kernel
